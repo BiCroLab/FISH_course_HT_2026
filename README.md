@@ -1,5 +1,8 @@
-# Fluorescence In Situ Hybridization Methods: 
-# From Theory to Practice
+<p align="center">
+  <img src="assets/fish-course-logo.png" alt="FISH Course Logo" width="350">
+</p>
+
+# Fluorescence In Situ Hybridization Methods: From Theory to Practice
 
 ## Course Overview
 
