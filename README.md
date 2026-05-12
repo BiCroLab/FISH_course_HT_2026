@@ -46,9 +46,8 @@ Participants will also gain practical experience using:
 
 # Schedule
 
----
 
-## Day 1 — Tuesday, May 19
+### Day 1 — Tuesday, May 19
 
 | Time | Activity | Trainer(s) |
 |---|---|---|
@@ -61,7 +60,7 @@ Participants will also gain practical experience using:
 
 ---
 
-## Day 2 — Wednesday, May 20
+### Day 2 — Wednesday, May 20
 
 | Time | Activity | Trainer(s) |
 |---|---|---|
@@ -73,9 +72,7 @@ Participants will also gain practical experience using:
 | 15:15–15:30 | Coffee Break ☕ | — |
 | 15:30–17:00 | **Hands-on:** Deconvolution & FIJI | Erik Wernersson, Giulia Peveri, Giulia Della Chiara |
 
----
-
-## Day 3 — Thursday, May 21
+### Day 3 — Thursday, May 21
 
 | Time | Activity | Trainer(s) |
 |---|---|---|
