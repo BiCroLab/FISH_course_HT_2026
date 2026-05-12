@@ -58,8 +58,6 @@ Participants will also gain practical experience using:
 | 15:00–15:30 | Probe Production | Nicola Crosetto |
 | 15:30–17:30 | **Lab 1:** Probe Hybridization | Giulia Della Chiara |
 
----
-
 ### Day 2 — Wednesday, May 20
 
 | Time | Activity | Trainer(s) |
