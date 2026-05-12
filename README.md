@@ -17,7 +17,7 @@ In addition, participants will be introduced to image processing and analysis to
 ## Course Information
 
 | Item | Details |
-|---|---|
+|---|----|
 | **Location** | Mezzanine and Lab IN.1P01.040 |
 | **Format** | Theory lectures + hands-on laboratory sessions |
 | **Topics Covered** | FISH principles, probe design, hybridization, fluorescence imaging, deconvolution, image analysis |
@@ -31,7 +31,7 @@ In addition, participants will be introduced to image processing and analysis to
 # Day 1 — Tuesday, May 19
 
 | Time | Activity | Trainer(s) |
-|---|---|---|
+|----|---|---|
 | 11:00–12:00 | Theory Introduction | Magda Bienko |
 | 12:00–13:00 | Probe Design Theory | Giulia Peveri, Erik Wernersson |
 | 13:00–14:00 | Lunch Break | — |
@@ -44,7 +44,7 @@ In addition, participants will be introduced to image processing and analysis to
 # Day 2 — Wednesday, May 20
 
 | Time | Activity | Trainer(s) |
-|---|---|---|
+|----|---|---|
 | 09:30–10:45 | **Lab 2.1:** Washes, Fluorescent Oligo Hybridization | Giulia Della Chiara |
 | 10:45–11:00 | Coffee Break ☕ | — |
 | 11:00–13:00 | **Lab 2.2:** Washes, Mounting | Giulia Della Chiara |
@@ -58,7 +58,7 @@ In addition, participants will be introduced to image processing and analysis to
 # Day 3 — Thursday, May 21
 
 | Time | Activity | Trainer(s) |
-|---|---|---|
+|----|---|---|
 | 09:30–10:30 | Theory Imaging: Cell Segmentation and Dotting | Erik Wernersson |
 | 10:30–11:30 | **Lab 3:** Imaging — Group 1 | Giulia Della Chiara |
 | 11:30–12:30 | **Lab 3:** Imaging — Group 2 | Giulia Della Chiara |
@@ -74,7 +74,7 @@ In addition, participants will be introduced to image processing and analysis to
 Participants are encouraged to familiarize themselves with the following tools before the course:
 
 - [FIJI (ImageJ)](https://imagej.net/software/fiji/)
-- Deconwolf
+- [Deconwolf](https://deconwolf.fht.org/)
 
 ---
 
