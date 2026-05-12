@@ -1,4 +1,5 @@
-# Fluorescence In Situ Hybridization Methods: From Theory to Practice
+# Fluorescence In Situ Hybridization Methods: 
+# From Theory to Practice
 
 ## Course Overview
 
