@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <b>May 19–21</b> • Mezzanine & Lab IN.1P01.040
+  <b>May 19–21 2026</b> • Mezzanine & Lab IN.1P01.040
 </p>
 
 ---
