@@ -1,4 +1,4 @@
-# WORKFLOW FOLD-FISH ANALYSIS
+# Mini Guide to use and install Deconwolf on our HPC
 
 This guide explains how to convert `.nd2` microscopy files into `.tif` format using [`nd2tools`](https://github.com/elgw/nd2tool) by Erik Wernesson before processing with Deconwolf.
 
