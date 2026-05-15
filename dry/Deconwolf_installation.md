@@ -1,6 +1,6 @@
 # Mini Guide to use and install Deconwolf on our HPC
 
-This guide explains how to convert `.nd2` microscopy files into `.tif` format using [`nd2tools`](https://github.com/elgw/nd2tool) by Erik Wernesson before processing with Deconwolf.
+This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with Deconwolf.
 
 ---
 
