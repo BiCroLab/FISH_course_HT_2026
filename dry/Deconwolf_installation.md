@@ -1,29 +1,29 @@
 # Mini Guide to use and install Deconwolf on our HPC
 
-This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with Deconwolf.
+This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with Deconwolf (dw).
 
 ---
 
-## Requirements
+## Bonus tip
 
-The required packages and dependencies are already prepared in the accompanying environment files:
-
-- `image_analysis_env.yml`
-- `image_analysis_env.txt`
-
-These can be used to recreate the conda environment if needed.  [oai_citation:0‡image_analysis_env.txt](sediment://file_0000000067a071fc87617447d9001342)  [oai_citation:1‡image_analysis_env.yml](sediment://file_0000000012ec71fca7296f6fe36959d9)
-
-For Apple/macOS users, there is a convenient AppImage available in the **Releases** section of the repository:
-
-- https://github.com/elgw/nd2tool/releases
+Deconwolf accepts .tif files as input. Erik Wernersson convenintly developed a package that can do that, on top of giving you useful information about the images and creating a script for running dw.
 
 Repository:
 
 - https://github.com/elgw/nd2tool
 
+For Apple/macOS users, there is a convenient AppImage available in the **Releases** section of the repository:
+
+- https://github.com/elgw/nd2tool/releases
+
 ---
 
 ## 1. Create the Conda Environment
+
+The required packages and dependencies are already prepared in the accompanying environment files:
+
+- `image_analysis_env.yml`
+- `image_analysis_env.txt`
 
 Using the `.yml` file:
 
