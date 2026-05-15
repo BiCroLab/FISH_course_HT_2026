@@ -1,6 +1,6 @@
 # Mini Guide to use and install Deconwolf on our HPC
 
-This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with Deconwolf (dw).
+This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with [`Deconwolf'](https://github.com/elgw/deconwolf) (dw).
 
 ---
 
@@ -43,11 +43,7 @@ conda create --name deconwolf --file image_analysis_env.txt
 
 ## 2. Install Deconwolf
 
-Repository:
-
-- https://github.com/elgw/deconwolf
-
-Clone the repository:
+Go on the dw [`repository'](https://github.com/elgw/deconwolf) and clone it:
 
 ```bash
 git clone https://github.com/elgw/deconwolf
