@@ -6,11 +6,13 @@ This guide explains first how to convert `.nd2` microscopy files into `.tif` for
 
 ## Bonus tip
 
-Deconwolf accepts `.tif` files as input. Erik Wernersson convenintly developed a package that can do that, on top of giving you useful information about the images and creating a script for running dw.
+Deconwolf accepts `.tif` files as input. Erik Wernesson conveniently developed [`nd2tools`](https://github.com/elgw/nd2tool), a package that can:
 
-Repository:
+- convert `.nd2` files into `.tif`
 
-- https://github.com/elgw/nd2tool
+- provide useful metadata and acquisition information about the images
+
+- generate a basic script template for running Deconwolf
 
 For Apple/macOS users, there is a convenient AppImage available in the **Releases** section of the repository:
 
