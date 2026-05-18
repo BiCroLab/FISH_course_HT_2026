@@ -58,7 +58,7 @@ The `.tif` files will be generated automatically in the directory with the `nd2 
 
 ---
 
-## 4. Generate a Deconwolf Script
+## 4. Generate a Deconwolf Script and launch it!
 
 Run:
 
@@ -71,3 +71,7 @@ This command generates a basic skeleton for a Deconwolf script.
 An adapted version for the HPC environment is available in the folder, together with an example workflow for image analysis.
 
 ---
+
+## Extra
+
+There is also a nice package to do Deconvolution directly in Fiji: ['DeconvolutionLab2'](https://bigwww.epfl.ch/deconvolution/deconvolutionlab2/).
