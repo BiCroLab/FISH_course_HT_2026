@@ -54,8 +54,8 @@ Participants will also gain practical experience using:
 | 11:00–12:00 | Theory Introduction | Magda Bienko |
 | 12:00–13:00 | Probe Design Theory | Giulia Peveri, Erik Wernersson |
 | 13:00–14:00 | Lunch Break | — |
-| 14:00–14:30 | Probe Production | Nicola Crosetto |
-| 14:30–15:30 | **Hands-on:** Probe Design | Giulia Peveri, Erik Wernersson |
+| 14:00–15:00 | **Hands-on:** Probe Design | Giulia Peveri, Erik Wernersson |
+| 15:00–15:30 | Probe Production | Nicola Crosetto |
 | 15:30–17:30 | **Lab 1:** Probe Hybridization | Giulia Della Chiara |
 
 ### Day 2 — Wednesday, May 20
