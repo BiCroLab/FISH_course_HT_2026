@@ -1,4 +1,4 @@
-# Mini Guide to use and install Deconwolf on our HPC
+# Mini Guide to use Deconwolf on our HPC
 
 This guide explains first how to convert `.nd2` microscopy files into `.tif` format and then how to process them with [`Deconwolf`](https://github.com/elgw/deconwolf) (dw).
 
@@ -22,36 +22,14 @@ I would recommend to use this method.
 
 ---
 
-## 1. Create the Conda Environment
+## 1. Deconwolf as a module
 
-The required packages and dependencies are already prepared in the accompanying environment files:
-
-- `image_analysis_env.yml`
-- `image_analysis_env.txt`
-
-Using the `.yml` file:
+Deconwolf has been already conveniently installed on our HPC as a module. All you have to do is:
 
 ```bash
-conda env create -n deconwolf -f image_analysis_env.yml
+module load deconwolf
 ```
-
-Or using the `.txt` specification:
-
-```bash
-conda create --name deconwolf --file image_analysis_env.txt
-```
-
----
-
-## 2. Install Deconwolf
-
-Go on the dw [`repository`](https://github.com/elgw/deconwolf) and clone it:
-
-```bash
-git clone https://github.com/elgw/deconwolf
-```
-
-> It is recommended to keep the `deconwolf` repository outside of the `nd2tool` folder structure.
+You can find detailed info about dw on the [`repository`](https://github.com/elgw/deconwolf) on GitHub.
 
 Activate the conda environment created above:
 
@@ -59,20 +37,7 @@ Activate the conda environment created above:
 conda activate deconwolf
 ```
 
-Go inside the cloned repository and install:
-
-```bash
-mkdir builddir
-cd builddir
-cmake ..
-cmake --install . --prefix $CONDA_PREFIX
-```
-
-Now that everything is set, let's get to work!
-
----
-
-## 4. Use `.nd2` File to Get Information About Your Image
+## 2. Use `.nd2` File to Get Information About Your Image
 
 Go to the folder where you downloaded the release of `nd2tool` and use the `--info` flag to inspect metadata and acquisition details:
 
@@ -81,7 +46,7 @@ Go to the folder where you downloaded the release of `nd2tool` and use the `--in
 ```
 ---
 
-## 5. Convert `.nd2` to `.tif`
+## 3. Convert `.nd2` to `.tif`
 
 To convert your image, run:
 
@@ -93,7 +58,7 @@ The `.tif` files will be generated automatically in the directory with the `nd2 
 
 ---
 
-## 6. Generate a Deconwolf Script
+## 4. Generate a Deconwolf Script
 
 Run:
 
@@ -103,6 +68,6 @@ Run:
 
 This command generates a basic skeleton for a Deconwolf script.
 
-An adapted version for the HPC environment is available in the  folder, together with an example workflow for image analysis.
+An adapted version for the HPC environment is available in the folder, together with an example workflow for image analysis.
 
 ---
