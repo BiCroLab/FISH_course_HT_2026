@@ -99,4 +99,4 @@ By the end of the course, participants will be able to:
 
 # Useful links
 - New [`review`](https://pubmed.ncbi.nlm.nih.gov/41707606/) on emerging oligo-based imaging methods
-- [`Website`](https://app.fluorofinder.com/) to check fluorophores details  
+- [`FluoroFinder`](https://app.fluorofinder.com/) to check fluorophores details  
