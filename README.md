@@ -96,3 +96,7 @@ By the end of the course, participants will be able to:
 - Analyze FISH signals using FIJI and related image processing workflows
 
 ---
+
+# Useful links
+- New [`review`](https://pubmed.ncbi.nlm.nih.gov/41707606/) on emerging oligo-based imaging methods by Magda Bienko
+- [`Website`](https://app.fluorofinder.com/) to check fluorophores details  
