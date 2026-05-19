@@ -99,5 +99,5 @@ By the end of the course, participants will be able to:
 
 # Useful links
 - New [`review`](https://pubmed.ncbi.nlm.nih.gov/41707606/) on emerging oligo-based imaging methods
-- Another [`review`] (https://www.sciencedirect.com/science/article/pii/S0168952522001184#f0010) on the era of 3D and spatial genomics
+- Another [`review`](https://www.sciencedirect.com/science/article/pii/S0168952522001184#f0010) on the era of 3D and spatial genomics
 - [`FluoroFinder`](https://app.fluorofinder.com/) to check fluorophores details  
