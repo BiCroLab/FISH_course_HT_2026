@@ -74,4 +74,4 @@ An adapted version for the HPC environment is available in the folder, together 
 
 ## Extra
 
-There is also a nice package to do Deconvolution directly in Fiji: ['DeconvolutionLab2'](https://bigwww.epfl.ch/deconvolution/deconvolutionlab2/).
+There is also a nice package to do Deconvolution directly in Fiji: [`DeconvolutionLab2`](https://bigwww.epfl.ch/deconvolution/deconvolutionlab2/).
