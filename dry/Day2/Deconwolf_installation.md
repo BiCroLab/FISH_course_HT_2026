@@ -24,6 +24,8 @@ I would recommend to use this method.
 
 ## 1. Deconwolf as a module
 
+First of all, you need to login our HPC.
+
 Deconwolf has been already conveniently installed on our HPC as a module. All you have to do is:
 
 ```bash
@@ -31,11 +33,6 @@ module load deconwolf
 ```
 You can find detailed info about dw on the [`repository`](https://github.com/elgw/deconwolf) on GitHub.
 
-Activate the conda environment created above:
-
-```bash
-conda activate deconwolf
-```
 
 ## 2. Use `.nd2` File to Get Information About Your Image
 
