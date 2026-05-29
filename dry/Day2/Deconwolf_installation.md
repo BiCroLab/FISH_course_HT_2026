@@ -67,7 +67,7 @@ Run:
 
 This command generates a basic skeleton for a Deconwolf script.
 
-Here you can find a ['script'](dw_example_script.sh) for the our HPC environment.
+Here you can find a [`script`](dw_example_script.sh) for the our HPC environment.
 
 ---
 
