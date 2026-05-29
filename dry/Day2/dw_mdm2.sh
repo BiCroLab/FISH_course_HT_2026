@@ -6,11 +6,11 @@
 #SBATCH --mem=50GB
 #SBATCH --time=24:00:00
 #SBATCH --mail-type=END
-#SBATCH --mail-user=giulia.peveri@fht.org
+#SBATCH --mail-user=name.surname@fht.org
 
 set -euo pipefail
 
-DIR="/group/bienko/projects/FISH_course/Mdm2_RNAFISH/Mdm2"
+DIR="/group/bienko/projects/FISH_course/Mdm2_RNAFISH/Mdm2"   # Here fill with the directory where you want to do your analysis
 
 echo "Loading modules..."
 module purge
@@ -42,7 +42,7 @@ dw_bw \
 echo "PSF generation completed."
 echo "Starting deconvolution..."
 
-iter_669=100
+iter_669=100                # The number of iterations corresponds more or less to the magnification of your objective
 iter_445=100
 
 dw \
