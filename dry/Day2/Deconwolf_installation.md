@@ -33,6 +33,8 @@ module load deconwolf
 ```
 You can find detailed info about dw on the [`repository`](https://github.com/elgw/deconwolf) on GitHub.
 
+Deconwolf acts on .tif images. You can directly export your images in this format from Fiji or read below.
+
 
 ## 2. Use `.nd2` File to Get Information About Your Image
 
@@ -65,7 +67,7 @@ Run:
 
 This command generates a basic skeleton for a Deconwolf script.
 
-Here you can find a ['script'](./mdm2_script.sh) for the our HPC environment.
+Here you can find a ['script'](dw_example_script.sh) for the our HPC environment.
 
 ---
 
