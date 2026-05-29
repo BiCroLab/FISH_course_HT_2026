@@ -34,10 +34,6 @@ Participants will also gain practical experience using:
 
 ---
 
-## Data Repository
-
-You can find the images and the data to run the pipeline [`here`](https://drive.google.com/drive/folders/1LJ2WnvGYZ6ZZDCkLMjzCH69iA51DD1Xn?usp=sharing).
-
 ## Course Information
 
 | Item | Details |
