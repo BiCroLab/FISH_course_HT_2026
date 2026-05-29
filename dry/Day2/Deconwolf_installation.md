@@ -65,7 +65,7 @@ Run:
 
 This command generates a basic skeleton for a Deconwolf script.
 
-An adapted version for the HPC environment is available in the folder, together with an example workflow for image analysis.
+Here you can find a ['script'](./mdm2_script.sh) for the our HPC environment.
 
 ---
 
