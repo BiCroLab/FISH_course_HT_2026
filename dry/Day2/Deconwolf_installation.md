@@ -65,9 +65,7 @@ Run:
 ./n2dtool.AppImage image.nd2 --deconwolf
 ```
 
-This command generates a basic skeleton for a Deconwolf script.
-
-Here you can find an example of a Deconwolf [`script`](dw_example_script.sh) adapted to our HPC environment.
+This command generates a basic skeleton for a Deconwolf script but here you can also find an example of a Deconwolf [`script`](dw_example_script.sh) adapted to our HPC environment.
 
 ---
 
